@@ -1,0 +1,3 @@
+[submodule "file-management-agent"]
+	path = file-management-agent
+	url = git@github.com:raushan291/file-management-agent.git
