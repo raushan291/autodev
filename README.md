@@ -9,6 +9,11 @@ This project implements a sophisticated multi-agent system for automated softwar
 
 ---
 
+## System Architecture
+
+![System Architecture](./docs/autodev_architecture.png)
+
+---
 
 ## Installation
 
